@@ -2,5 +2,5 @@
 cd ../ViolationsDetection
 git pull origin master
 
-cd ../Configuration
+cd ../ConfigurationSecon
 docker-compose up -d --build
